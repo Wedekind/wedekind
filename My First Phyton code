@@ -16,7 +16,7 @@ time.sleep( 1 )
 if name == "Hans":
   if waffe == '4':
     time.sleep(1)
-    print('You win the Game!\n Your are Hans with a FLAMMENWERFER in a Medival-Adventure-Game. GG ^_^')
+    print('You win the Game!\n Your are Hans with a FLAMMENWERFER in a Medieval-Adventure-Game. GG ^_^')
 else:
   if waffe == '1':
    print("You have chosen the Axe as your weapon")
